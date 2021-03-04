@@ -1,1 +1,1 @@
-# Progressive Darts for Deepfake detection
+# Progressive Darts for Deepfake Detection
